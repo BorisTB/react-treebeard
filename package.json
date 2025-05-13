@@ -78,7 +78,7 @@
   "dependencies": {
     "@emotion/core": "^0.13.1",
     "@emotion/styled": "^0.10.6",
-    "@babel/runtime": "^7.0.0",
+    "@babel/runtime": "^7.26.10",
     "deep-equal": "^1.0.1",
     "prop-types": "^15.6.2",
     "shallowequal": "^1.1.0",
